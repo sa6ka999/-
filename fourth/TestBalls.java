@@ -1,8 +1,6 @@
 package fourth;
 
 public class TestBalls  {
-    public TestBalls() {
-    }
     public static void main(String[] args) {
         Balls b1 = new Balls(20.5D, "green", "basketball", 750.0D);
         Balls b2 = new Balls(25.5D, "yellow", "basketball", 300.0D);
